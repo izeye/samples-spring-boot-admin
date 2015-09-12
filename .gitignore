@@ -4,3 +4,4 @@ samples-spring-boot-admin.iml
 gradlew.bat
 .idea
 gradle
+application.pid
